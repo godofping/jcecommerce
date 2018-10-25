@@ -1,0 +1,12 @@
+
+Database Information
+	host : fdb22.atspace.me
+	port : 3306
+	dbname : 2854559_ecommerce
+	user : 2854559_ecommerce
+	password : *ecommerce1234!
+	
+FTP Account
+	
+	username: 
+	password: *admin1234!
